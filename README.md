@@ -1,4 +1,4 @@
-My [Coursera-ReResearch-Project2](https://github.com/beckrw/Coursera-RepResearch-Project2) Repo  
+My [Coursera-RepResearch-Project2](https://github.com/beckrw/Coursera-RepResearch-Project2) Repo  
 
 ### Introduction
 

@@ -4,7 +4,7 @@ Created by Robert Beck on June 18, 2015
 
 ## Impact of Severe Weather Events on Public Health and Economy in the United States
 
-### Synonpsis  
+### Synopsis  
 In this report, we aim to analyze the impact of different weather events on public health and economy based on the storm database collected from the U.S. National Oceanic and Atmospheric Administration's (NOAA) from 1950 - 2011. We will use the estimates of fatalities, injuries, property and crop damage to decide which types of event are most harmful to the population health and economy. From these data, we found that excessive heat and tornado are most harmful with respect to population health, while flood, drought, and hurricane/typhoon have the greatest economic consequences.
 
 ### Basic settings
@@ -22,7 +22,7 @@ require(gridExtra)
 First, we download the data file and unzip it.
 
 ```r
-setwd("~/Desktop/Online Coursera/Coursera-Reproducible-Research/RepData_PeerAssessment2/")
+setwd("~/Desktop/Coursera-RepResearch-Project2/")
 
 if (!"stormData.csv.bz2" %in% dir("./data/")) {
     print("hhhh")
